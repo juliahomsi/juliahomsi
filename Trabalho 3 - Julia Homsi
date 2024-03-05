@@ -1,0 +1,27 @@
+Trabalho 3 - Programação 
+Julia Homsi Genuncio
+Entrega: 05/03/2024
+
+Explique as diferenças entre 3 linguagens de programação: 
+
+As 3 linguagens de programação são Python, JavaScript e Java. A diferença entre elas é que o Python é uma linguagem de programação de alto nível conhecida por sua simplicidade e legibilidade. É amplamente utilizada em diversas áreas, como desenvolvimento web, análise de dados, automação e muitas outras. Enquanto o JavaScript é uma linguagem de programação de alto nível que é principalmente conhecida por ser usada no desenvolvimento web para criar interatividade em páginas da web.E por sim, o Java é uma linguagem de programação orientada a objetos amplamente utilizada em desenvolvimento de aplicativos, especialmente no desenvolvimento de aplicativos corporativos e para dispositivos móveis Android.
+
+Executando o código de cada uma delas:
+Python:
+print("Hello, World!")
+python hello.py
+
+Javascript: 
+console.log("Hello, World!");
+node hello.js
+
+Java:
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+javac HelloWorld.java
+
+
